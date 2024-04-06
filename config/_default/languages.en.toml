@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "quan238"
 
 [params]
 displayName = "EN"
@@ -12,3 +12,6 @@ dateFormat = "2 January 2006"
 [author]
 name = "Quan Tran Hong"
 image = "avatar.jpg"
+headline = "Machine Software Engineer"
+links = [ { github = "https://github.com/quan238" }, { instagram = "https://www.instagram.com/quaan.832/" }, { linkedin = "https://www.linkedin.com/in/quan2381/" } ]
+bio = "Hello"
