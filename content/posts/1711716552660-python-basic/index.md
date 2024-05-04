@@ -13,3 +13,9 @@ tags: ["example", "tag"]
 This is a paragraph with **bold** and *italic* text.
 Check more at [Blowfish documentation](https://blowfish.page/)
 undefined
+
+```python
+a = 1
+b = 2
+a + b = 3
+```

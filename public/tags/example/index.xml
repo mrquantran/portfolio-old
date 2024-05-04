@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Example on quan238</title>
-    <link>https://quan238.github.io/portfolio/tags/example/</link>
+    <link>http://localhost:1313/portfolio/tags/example/</link>
     <description>Recent content in Example on quan238</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Quan Tran Hong</copyright>
-    <lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://quan238.github.io/portfolio/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio/tags/example/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>python advanced</title>
-      <link>https://quan238.github.io/portfolio/posts/1711716562158-python-advanced/</link>
+      <link>http://localhost:1313/portfolio/posts/1711716562158-python-advanced/</link>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://quan238.github.io/portfolio/posts/1711716562158-python-advanced/</guid>
+      <guid>http://localhost:1313/portfolio/posts/1711716562158-python-advanced/</guid>
       <description>an example to get you started</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://quan238.github.io/portfolio/posts/1711716562158-python-advanced/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/posts/1711716562158-python-advanced/featured.png" />
     </item>
     
     <item>
       <title>python basic</title>
-      <link>https://quan238.github.io/portfolio/posts/1711716552660-python-basic/</link>
+      <link>http://localhost:1313/portfolio/posts/1711716552660-python-basic/</link>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://quan238.github.io/portfolio/posts/1711716552660-python-basic/</guid>
+      <guid>http://localhost:1313/portfolio/posts/1711716552660-python-basic/</guid>
       <description>an example to get you started</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://quan238.github.io/portfolio/posts/1711716552660-python-basic/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/posts/1711716552660-python-basic/featured.png" />
     </item>
     
     <item>
       <title>pytorch project example</title>
-      <link>https://quan238.github.io/portfolio/projects/1711717413363-pytorch-project-example/</link>
+      <link>http://localhost:1313/portfolio/projects/1711717413363-pytorch-project-example/</link>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://quan238.github.io/portfolio/projects/1711717413363-pytorch-project-example/</guid>
+      <guid>http://localhost:1313/portfolio/projects/1711717413363-pytorch-project-example/</guid>
       <description>an example to get you started</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://quan238.github.io/portfolio/projects/1711717413363-pytorch-project-example/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/projects/1711717413363-pytorch-project-example/featured.png" />
     </item>
     
   </channel>

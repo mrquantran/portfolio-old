@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on quan238</title>
-    <link>https://quan238.github.io/portfolio/tags/</link>
+    <link>http://localhost:1313/portfolio/tags/</link>
     <description>Recent content in Tags on quan238</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Quan Tran Hong</copyright>
-    <lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://quan238.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example</title>
-      <link>https://quan238.github.io/portfolio/tags/example/</link>
+      <link>http://localhost:1313/portfolio/tags/example/</link>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://quan238.github.io/portfolio/tags/example/</guid>
+      <guid>http://localhost:1313/portfolio/tags/example/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tag</title>
-      <link>https://quan238.github.io/portfolio/tags/tag/</link>
+      <link>http://localhost:1313/portfolio/tags/tag/</link>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://quan238.github.io/portfolio/tags/tag/</guid>
+      <guid>http://localhost:1313/portfolio/tags/tag/</guid>
       <description></description>
       
     </item>
